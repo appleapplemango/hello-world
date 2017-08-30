@@ -1,2 +1,3 @@
 # hello-world
 Getting back in to Git
+After first meeting GitHub I've now realsied how useful it will be to enable my work as a web dev...
